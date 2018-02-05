@@ -2,6 +2,8 @@
 
 This guide is for students taking CS111, most sections of which are usually taught by Professor Ryba. 
 
+Prof Ryba went to school in Australia
+
 ```
 #include <iostream>
 using namespace std;
