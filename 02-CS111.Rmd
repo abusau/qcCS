@@ -2,6 +2,16 @@
 
 This guide is for students taking CS111, most sections of which are usually taught by Professor Ryba. 
 
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hi CS111 students!" << endl;
+  return 0;
+}
+```
+
 ##About this Course
 
 ###Syllabi

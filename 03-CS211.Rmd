@@ -2,6 +2,18 @@
 
 This guide is for students taking CS211, whose sections are often taught by Professor Waxman.
 
+```
+#include <iostream>
+using namespace std;
+
+char course[2] = {"CS11"", "CS211"};
+
+int main() {
+  cout << "Hi " << course[2] << " students!" << endl;
+  return 0;
+}
+```
+
 ##About this Course
 
 ###Syllabi
