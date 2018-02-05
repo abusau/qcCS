@@ -1,0 +1,13 @@
+#CS211: Object-Oriented Programming in C++
+
+This guide is for students taking CS211, whose sections are often taught by Professor Waxman.
+
+##About this Course
+
+###Syllabi
+
+###Study Halls
+
+###Resources
+
+##Lecture 1: The Basics 

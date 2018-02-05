@@ -1,0 +1,30 @@
+--- 
+title: "Hack QC"
+subtitle: "The Queens College Guide to Computer Science"
+author: "by The Queens College Collective Consciousness"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: sepqc/qcbio
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# What is this?
+
+This is a collaboratively written guide for courses at queens college that involve a lot of computational thinking which currently includes:
+
+* CS111: Introduction to Algorithms and Programming
+* CS211: Object-Oriented Programming in C++ 
+
+##Annotations
+
+Notice that there's a little arrow to the side of the screen. Click the arrow and see what happens, or just highlight some text on this page, and you'll notice a little widget comes out that lets you highlight or annotate text. 
+
+You'll need to sign up for [hypothesis.is](https://web.hypothes.is) to do this when you're in the side pane. It's an open source tool meant to get people to annotate and peer review the internet, including R Markdown books, and you can use it to suggest small changes to this book or discuss its content/ask questions. This video explains it a bit more. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/deOlFn6q01Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

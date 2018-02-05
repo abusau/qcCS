@@ -1,0 +1,13 @@
+#CS111: Introduction to Algorithms and Programming
+
+This guide is for students taking CS111, most sections of which are usually taught by Professor Ryba. 
+
+##About this Course
+
+###Syllabi
+
+###Study Halls
+
+###Resources
+
+##Lecture 1: The Basics 
